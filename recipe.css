@@ -1,0 +1,39 @@
+body {
+       background-color: #20A535;
+       color: #000000;
+       font-family: Arial;
+}
+p {
+       margin-left: 170px;
+       margin-right: 170px;
+       font-style: italic;
+       font-size: 24px;
+}
+h1 {
+       text-align: center;
+       text-transform: uppercase;
+       font-family: verdana;
+}
+h2 {
+       text-align: center;
+}
+li {
+       font-size: 20px;
+}
+h2 span {
+       background-color: #E23535;
+}
+p span { 
+       background-color: #1F7C0E;
+       color: #E23535;
+}
+.ingredientsdir {
+       text-align: left
+}
+.recipeby {
+       background-color: #E23535
+}
+div {
+       text-align: center;
+       font-size: 30px; 
+}

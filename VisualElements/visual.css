@@ -1,0 +1,15 @@
+#roundEdges {
+	border: 10px ridge #6E7B90;
+	border-radius:  15px;
+	border-width: 10px;
+}
+body {background-color: #3B98BA;
+	background-image: linear-gradient(to bottom, #FFFFFF, #3B98BA);
+	background-repeat:  no-repeat; 
+}
+#divBunny img {
+	border: 10px ridge #6E7B90;
+	border-radius:  15px;
+	border-width: 10px;
+	box-shadow: 15px 15px 15px #374144;
+}

@@ -1,0 +1,135 @@
+#wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	min-width: 1500px;
+}
+h2 {
+	min-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #6C4678;
+	color: #F0C1FF;
+	border-style: outset;
+	border-color: silver;
+	border-radius: 10px;
+	width: 55%;
+	font-family: verdana;
+	padding: 2px;
+	box-shadow: 10px 10px 18px #2B2B2B;
+}
+h3 {
+	font-weight: bold;
+	color: #F0C1FF;
+	font-family: arial;	
+}
+body {
+	background-image: url(images/background2.jpg);
+	background-repeat:  no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+nav {
+	width: 30%;
+	min-width: 450px;
+	max-width: 450px;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: outset;
+	border-radius: 10px;
+	text-align: center;
+	background-color: #6C4678;
+	font-family: arial;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 3px;
+	box-shadow: 10px 10px 18px #2B2B2B;
+}
+a:link {color: #0C0AA2;}
+a:visited {color: #D34AFF;}
+a:focus {color: #D51A53;}
+a:hover {color: #D51A53;}
+.widthchange {
+	margin-right: auto;
+	margin-left: auto;
+	width: 20%;
+	min-width: 300px;
+	max-width: 300px;
+	box-shadow: 10px 10px 18px #2B2B2B;
+}
+.homestyle {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	border-style: outset;
+	border-radius: 10px;
+	background-color: #6C4678;
+	padding: 10px;
+	box-shadow: 10px 10px 18px #2B2B2B;	
+}
+.stylish {
+	min-width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #6C4678;
+	color: #F0C1FF;
+	border-style: outset;
+	border-radius: 10px;
+	width: 23%;
+	font-family: arial;
+	padding: 2px;
+	box-shadow: 10px 10px 18px #2B2B2B;
+}
+.stylish2 {	
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%;
+	border-style: outset;
+	border-radius: 10px;
+	background-color: #6C4678;
+	padding: 20px;
+	box-shadow: 10px 10px 18px #2B2B2B;
+}
+.stylish3 {	
+	border-style: outset;
+	border-radius: 10px;
+	background-color: #6C4678;
+	padding: 20px;
+	box-shadow: 10px 10px 18px #2B2B2B;
+}
+p {
+	margin-left: 10%;
+	margin-right: 10%;
+	font-weight: bold;
+	color: #F0C1FF;
+	font-family: arial;
+}
+footer {	
+	width: 100%;
+	background-color: transparent;
+	background-size: 100%;
+	text-align: center;
+}
+.floatleft {
+	float: left;
+	width: 30%;
+}
+.floatright {
+	float: right;
+	width: 30%;
+}
+.clearfloat{
+	clear: both;
+}
+img {
+	margin-left: 20px;
+	margin-right: 20px;
+	border-radius: 10px;
+	border-style: solid;
+	border-color: silver;
+	box-shadow: 10px 10px 18px #2B2B2B;
+}
+.imgformat {
+	margin-left: 5%;
+	margin-right: 5%;
+}
